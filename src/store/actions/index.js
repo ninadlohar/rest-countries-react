@@ -1,0 +1,1 @@
+export { loadRegionsOnInit } from "./mainPageActions";
